@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+![geo-api drawio](https://user-images.githubusercontent.com/68052722/223335486-bba98176-ccd7-46fc-a1ca-4599b5650fd1.png)
+
+
 
 ### Features
 In this tutorial, we will be looking at dockerizing a flask application running an ip-geolocation service, a redis container used for caching and an nginx container configured as a reverse proxy.
